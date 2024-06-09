@@ -1,6 +1,9 @@
 # RecycleMe-Apps
+ 
+<div style="text-align: center;">
+  <img src="[https://example.com/logo.png](https://github.com/Juli-Yash/RecycleMe/assets/130382261/e0b2cc12-59ac-4428-9fd6-0da4172ae197)" alt="Logo" style="width: 200px;">
+</div>  
 
-![bangkit_banner](https://github.com/Juli-Yash/RecycleMe/assets/130382261/e0b2cc12-59ac-4428-9fd6-0da4172ae197).  
 RecycleMe App is an answer aimed at fostering sustainable futures by promoting recycling practices through innovative AI technology. With a surge in environmental concerns, our project addresses the pressing issue of waste management by providing users with a seamless platform to identify recyclable items, locate nearby recycling facilities, and track their eco-friendly contributions. Our research questions delve into understanding user behaviors towards recycling, identifying barriers to adoption, and exploring the potential of AI in enhancing recycling awareness and participation. By combining environmental consciousness with cutting-edge technology, we aspire to empower individuals to actively contribute to a healthier planet while fostering a harmonious relationship between humanity and the environment. Through RecycleMe, we envision a future where sustainability is not just a choice but a way of life.
 
 ## Project Document
@@ -13,7 +16,7 @@ https://drive.google.com/drive/folders/1yIodeivcRvv70Cu4nER0hJEU4cgPbyBe?usp=sha
 
 ## Capstone Project Team:
 |              Name             |     Bangkit ID     |                                  GitHub-Profile                               |
-|:------------------------------|:------------------:|------------------------------------------------------------------------------:|
+|:------------------------------|:------------------:|:------------------------------------------------------------------------------|
 | Sahrul Saefuloh               |    M409D4KY3034    |  [https://github.com/sahrullsf/sahrulsf](https://github.com/sahrulsf)         |
 | Erni                          |    M409D4KX3035    |  [https://github.com/ernitiaraaa](https://github.com/ernitiaraaa)             |
 | Fahril Sidik Alfarizi         |    M367D4KY2664    |  [https://github.com/fahrilalfariziii](https://github.com/fahrilalfariziii)   |
