@@ -8,16 +8,16 @@ RecycleMe App is an answer aimed at fostering sustainable futures by promoting r
 https://drive.google.com/drive/folders/1yIodeivcRvv70Cu4nER0hJEU4cgPbyBe?usp=sharing
 
 ## Project Resource
-* **Paper Reference**
+* **Paper Reference**  
 *  **Waste Dataset Master**
 
 ## Capstone Project Team:
-|              Name             |     Bangkit ID     |              GitHub-Profile            |
-|:------------------------------|:------------------:|---------------------------------------:|
-| Sahrul Saefuloh               |    M409D4KY3034    |  https://github.com/sahrullsf/sahrulsf |
-| Erni                          |    M409D4KX3035    |  https://github.com/ernitiaraaa        |
-| Fahril Sidik Alfarizi         |    M367D4KY2664    |  https://github.com/fahrilalfariziii   |
-| Shahibul Wafa                 |    C367D4KY0694    |  https://github.com/iBuLlll            |
-| Muhammad Fahmi Assidiq        |    C367D4KY0260    |  https://github.com/mfahmiq            |
-| Julius Dias Dwiatmoko Wijaya  |    A409D4KY4461    |  https://github.com/Juli-Yash          |
-| Salman Fariz Aulia            |    A351D4KY3839    |  https://github.com/salmanfarizzz      |
+|              Name             |     Bangkit ID     |                                  GitHub-Profile                               |
+|:------------------------------|:------------------:|------------------------------------------------------------------------------:|
+| Sahrul Saefuloh               |    M409D4KY3034    |  [https://github.com/sahrullsf/sahrulsf](https://github.com/sahrulsf)         |
+| Erni                          |    M409D4KX3035    |  [https://github.com/ernitiaraaa](https://github.com/ernitiaraaa)             |
+| Fahril Sidik Alfarizi         |    M367D4KY2664    |  [https://github.com/fahrilalfariziii](https://github.com/fahrilalfariziii)   |
+| Shahibul Wafa                 |    C367D4KY0694    |  [https://github.com/iBuLlll](https://github.com/iBuLlll)                     |
+| Muhammad Fahmi Assidiq        |    C367D4KY0260    |  [https://github.com/mfahmiq](https://github.com/mfahmiq)                     |
+| Julius Dias Dwiatmoko Wijaya  |    A409D4KY4461    |  [https://github.com/Juli-Yash](https://github.com/Juli-Yash)                 |
+| Salman Fariz Aulia            |    A351D4KY3839    |  [https://github.com/salmanfarizzz](https://github.com/salmanfarizzz)         |
