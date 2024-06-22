@@ -7,25 +7,27 @@ RecycleMe App is an answer aimed at fostering sustainable futures by promoting r
 </p>
 
 ## Project Document  
-* **Deployed Solutions Link**
+### **Deployed Solutions Link**
 * Model Machine Learning  
-https://drive.google.com/file/d/1Fz-vvcX3lJfJ4VSfnePSv2PkAYVUjLEu/view
-* API Authentication
-Login = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/signin
-Register = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/signup
-Logout = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/logout
-API Article News : https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/news
-API Prediction :  https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/model/predict
-API Advise :  https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/model/history
-* Release APK
-https://drive.google.com/drive/folders/14jNUTfUFpZ4YIse-s50qjj2D-UzVKsVa?usp=sharing
+https://drive.google.com/file/d/1Fz-vvcX3lJfJ4VSfnePSv2PkAYVUjLEu/view  
+* API Authentication  
+Login = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/signin  
+Register = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/signup  
+Logout = https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/users/logout  
+API Article News : https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/news  
+API Prediction :  https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/model/predict  
+API Advise :  https://recycleme-auth-backend-gcc43g5zaa-et.a.run.app/model/history  
+* Release APK  
+https://drive.google.com/drive/folders/14jNUTfUFpZ4YIse-s50qjj2D-UzVKsVa?usp=sharing  
 
-* **Drive Document**  
-https://drive.google.com/drive/folders/1yIodeivcRvv70Cu4nER0hJEU4cgPbyBe?usp=sharing
+### **Drive Document**  
+https://drive.google.com/drive/folders/1yIodeivcRvv70Cu4nER0hJEU4cgPbyBe?usp=sharing  
 
 ## Project Resource
 * **Paper Reference**  
-*  **Waste Dataset Master**
+https://ejournal.unesa.ac.id/index.php/swara-bhumi/article/view/35038
+*  **Waste Dataset Master**  
+https://www.kaggle.com/datasets/sahrulsaefuloh/waste-capstone
 
 ## Capstone Project Team:
 |              Name             |     Bangkit ID     |                                  GitHub-Profile                               |
