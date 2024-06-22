@@ -4,7 +4,17 @@
 
 <p align="justify">
 RecycleMe App is an answer aimed at fostering sustainable futures by promoting recycling practices through innovative AI technology. With a surge in environmental concerns, our project addresses the pressing issue of waste management by providing users with a seamless platform to identify recyclable items, locate nearby recycling facilities, and track their eco-friendly contributions. Our research questions delve into understanding user behaviors towards recycling, identifying barriers to adoption, and exploring the potential of AI in enhancing recycling awareness and participation. By combining environmental consciousness with cutting-edge technology, we aspire to empower individuals to actively contribute to a healthier planet while fostering a harmonious relationship between humanity and the environment. Through RecycleMe, we envision a future where sustainability is not just a choice but a way of life.
-</p>
+</p>  
+
+## Technology Stack  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=flat&logo=android&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-00C853?style=flat&logo=dagger&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-007ACC?style=flat&logo=retrofit&logoColor=white)
+![Location](https://img.shields.io/badge/Location-E34F26?style=flat&logo=google-maps&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-00C853?style=flat&logo=camera&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-00C853?style=flat&logo=glide&logoColor=white)
 
 ## Project Document  
 ### **Deployed Solutions Link**
